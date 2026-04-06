@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: rushik-dholakia # change to your GitHub username
+  username: rushik-dholakia 
 
-twitter:
-  username: twitter_username # change to your Twitter username
+linkedin:
+  username: https://www.linkedin.com/in/rushik-dholakia/ 
 
 social:
   # Change to your full name.
