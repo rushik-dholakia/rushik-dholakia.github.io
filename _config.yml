@@ -35,7 +35,10 @@ social:
   email: dholakiarushik4@gmail.com 
   links:
     - https://github.com/rushik-dholakia
-    - https://www.linkedin.com/in/rushik-dholakia/
+    - https://www.linkedin.com/in/rushik-dholakia
+
+  platforms:
+    linkedin: rushik-dholakia
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
