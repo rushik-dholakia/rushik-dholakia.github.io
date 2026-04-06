@@ -32,10 +32,10 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Rushik Dholakia
-  email: dholakiarushik4@gmail.com # change to your email address
+  email: dholakiarushik4@gmail.com 
   links:
     - https://github.com/rushik-dholakia
-    - https://www.linkedin.com/in/rushik-dholakia
+    - https://www.linkedin.com/in/rushik-dholakia/
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
