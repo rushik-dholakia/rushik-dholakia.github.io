@@ -29,7 +29,7 @@ github:
   username: rushik-dholakia 
 
 linkedin:
-  username: https://www.linkedin.com/in/rushik-dholakia/ 
+  username: rushik-dholakia
 
 social:
   # Change to your full name.
@@ -38,13 +38,8 @@ social:
   email: dholakiarushik4@gmail.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
-    # The first element serves as the copyright owner's link
-     # change to your Twitter homepage
     - https://github.com/rushik-dholakia 
     - https://linkedin.com/in/rushik-dholakia
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    
 
 # Site Verification Settings
 webmaster_verifications:
