@@ -41,9 +41,10 @@ social:
     # The first element serves as the copyright owner's link
      # change to your Twitter homepage
     - https://github.com/rushik-dholakia 
+    - https://www.linkedin.com/in/rushik-dholakia/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/rushik-dholakia/
+    
 
 # Site Verification Settings
 webmaster_verifications:
