@@ -30,10 +30,7 @@ github:
 
 linkedin:
   username: rushik-dholakia
-
-email:
- username: dholakiarushik4@gmail.com
-
+  
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -42,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/rushik-dholakia
-    - https://www.linkedin.com/in/rushik-dholakia
+    - https://www.linkedin.com/in/rushik-dholakia/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
