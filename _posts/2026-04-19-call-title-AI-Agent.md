@@ -28,10 +28,10 @@ This project is a **Call Title AI Agent** that generates meaningful titles based
 - Fast retrieval using vector search
 
 ---
-
----
-
 ## 🔗 Source Code
 
 👉 [View Project on GitHub](https://github.com/rushik-dholakia/Call-title-AI-Agent)
+---
+
+
 
