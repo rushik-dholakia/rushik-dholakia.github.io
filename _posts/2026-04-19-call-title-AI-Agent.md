@@ -29,9 +29,4 @@ This project is a **Call Title AI Agent** that generates meaningful titles based
 
 ---
 
-## 💻 Example
 
-```python
-query = "Customer asking about refund"
-result = generate_title(query)
-print(result)
